@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @euanw7
+- 🌱 I’m currently learning Java and Python
+- 📫 How to reach me: euanw7@hotmail.com
